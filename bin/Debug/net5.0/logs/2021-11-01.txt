@@ -1,0 +1,102 @@
+2021-11-01 11:01:09,857 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-01 11:01:09,869 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-01 11:01:09,870 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 11:01:09,870 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 11:01:09,870 [1] INFO  App  
+ Content root path: D:\COGNIZANT\MFPE\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-01 11:14:37,228 [12] INFO  App  
+  Getting Customer details is performing 
+ 
+2021-11-01 11:14:37,229 [12] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2021-11-01 11:14:41,909 [13] INFO  App  
+  Getting Customer details is performing 
+ 
+2021-11-01 11:14:41,911 [13] ERROR App  
+  Getting Customer details is  not performed 
+ 
+2021-11-01 11:43:32,827 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-01 11:43:32,836 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-01 11:43:32,836 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 11:43:32,836 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 11:43:32,837 [1] INFO  App  
+ Content root path: F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-01 11:58:47,038 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-01 12:00:02,451 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-01 12:00:02,458 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-01 12:00:02,459 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 12:00:02,459 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 12:00:02,459 [1] INFO  App  
+ Content root path: F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
+2021-11-01 12:00:20,380 [13] INFO  App  
+  Getting Customer details is performing 
+ 
+2021-11-01 12:00:20,380 [13] DEBUG App  
+  Getting Customer details is   performed. 
+ 
+2021-11-01 12:02:09,213 [14] INFO  App  
+ Customer creation is performing 
+ 
+2021-11-01 12:02:09,337 [14] INFO  App  
+ Start processing HTTP request POST https://localhost:6001/api/Accounts/CreateAccountforCustomer?customerId=106 
+ 
+2021-11-01 12:02:09,339 [14] INFO  App  
+ Sending HTTP request POST https://localhost:6001/api/Accounts/CreateAccountforCustomer?customerId=106 
+ 
+2021-11-01 12:02:09,584 [17] INFO  App  
+ Received HTTP response headers after 240.5572ms - 200 
+ 
+2021-11-01 12:02:09,585 [17] INFO  App  
+ End processing HTTP request after 256.4507ms - 200 
+ 
+2021-11-01 12:02:09,589 [17] DEBUG App  
+  Creating Customer details is   performed. 
+ 
+2021-11-01 13:22:45,977 [2] INFO  App  
+ Application is shutting down... 
+ 
+2021-11-01 23:47:40,850 [1] INFO  App  
+ Now listening on: https://localhost:5001 
+ 
+2021-11-01 23:47:40,858 [1] INFO  App  
+ Now listening on: http://localhost:5000 
+ 
+2021-11-01 23:47:40,858 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-11-01 23:47:40,858 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-11-01 23:47:40,858 [1] INFO  App  
+ Content root path: F:\MFPE FOR FINAL DEMONSTRATION\MFPE FINAL\CustomerMicroservice\CustomerMicroService 
+ 
